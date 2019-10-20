@@ -1,2 +1,2 @@
 # HandWritten-Text-Recognition
-#download words dataset 
+#download IAM words dataset 
